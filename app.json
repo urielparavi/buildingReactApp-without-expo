@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RncBare",
+    "slug": "RncBare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
